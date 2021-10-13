@@ -2,5 +2,7 @@
 
 My Name is Renol
 
-[![](https://raw.githubusercontent.com/renol767/renol767/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/renol767/renol767/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/renol767/renol767/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+![](https://github.com/renol767/github-stats/blob/master/generated/overview.svg)
+<br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renol767&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
