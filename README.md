@@ -9,4 +9,4 @@ My Name is Renol
 <br><br>
 [![wakatime](https://wakatime.com/badge/user/b3be70e3-a972-4f84-a954-641cb721f7ad.svg)](https://wakatime.com/@b3be70e3-a972-4f84-a954-641cb721f7ad)
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renol767&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=renol767&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
