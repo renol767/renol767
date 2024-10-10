@@ -1,9 +1,6 @@
 ### Hi there 👋 
 
 My Name is Renol
-
-
-![](https://github.com/renol767/github-stats/blob/master/generated/overview.svg)
 <br><br>
 <b> Wakatime Since 29 Jul 2021 </b>
 <br><br>
